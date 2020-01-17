@@ -1,3 +1,3 @@
 # autoContinueToCourse
 
-## Chrome Extension
+> Chrome Extension
